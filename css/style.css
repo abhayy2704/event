@@ -240,11 +240,13 @@ ol {
     top: 0;
     width: 100%;
     z-index: 9;
+	height: 80px;
 }
 
 .header.header--normal {
     position: relative;
     background: #214442b8;
+	height: 80px;
 }
 
 .header__logo {
