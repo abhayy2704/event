@@ -234,7 +234,7 @@ ol {
 -----------------------*/
 
 .header {
-    background: #214442b8;
+    background: #214442fa;
     position: absolute;
     left: 0;
     top: 0;
@@ -245,7 +245,7 @@ ol {
 
 .header.header--normal {
     position: relative;
-    background: #214442b8;
+    background: #214442fa;
 	height: 80px;
 }
 
@@ -391,13 +391,13 @@ ol {
 .hero__text h1 {
     font-size: 110px;
     font-family: "Rockville Solid Regular";
-    color: #ffffff;
+    color: #1f3126;
     margin-bottom: 20px;
     margin-top: 22px;
 }
 
 .hero__text p {
-    color: #ffffff;
+    color: #1f3126;
     margin-bottom: 20px;
 }
 
