@@ -140,20 +140,20 @@ ol {
     text-transform: uppercase;
     padding: 14px 25px 12px;
     color: #ffffff;
-    background: #214442;
+    background: #f29ac2;
     letter-spacing: 2px;
 }
 
 .primary-btn.border-btn {
     background: transparent;
-    border: 2px solid #214442;
+    border: 2px solid #f29ac2;
     color: #111111;
 }
 
 .site-btn {
     font-size: 15px;
     color: #ffffff;
-    background: #214442;
+    background: #f29ac2;
     font-weight: 700;
     letter-spacing: 2px;
     border: none;
@@ -234,7 +234,7 @@ ol {
 -----------------------*/
 
 .header {
-    background: #214442fa;
+    background: #f29ac2fa;
     position: absolute;
     left: 0;
     top: 0;
@@ -245,7 +245,7 @@ ol {
 
 .header.header--normal {
     position: relative;
-    background: #214442fa;
+    background: #f29ac2fa;
 	height: 80px;
 }
 
@@ -403,7 +403,7 @@ ol {
 
 .hero__text .play-btn {
     font-size: 26px;
-    color: #214442;
+    color: #f29ac2;
     height: 90px;
     width: 90px;
     border-radius: 50%;
@@ -444,7 +444,7 @@ ol {
 
 .linear__icon i {
     font-size: 50px;
-    color: #214442;
+    color: #f29ac2;
 }
 
 @-webkit-keyframes mymove {
@@ -538,8 +538,8 @@ ol {
     font-size: 15px;
     color: #ffffff;
     display: inline-block;
-    background: #214442;
-    padding: 12px 8px 9px 20px;
+    background: #f29ac2;
+    padding: 12px 22px 9px 20px;
 }
 
 .event__item__text {
@@ -560,7 +560,7 @@ ol {
 }
 
 .event__item__text p i {
-    color: #214442;
+    color: #f29ac2;
     margin-right: 8px;
     font-size: 17px;
 }
@@ -611,8 +611,8 @@ ol {
 }
 
 .jp-state-playing .jp-play {
-    background: #214442 !important;
-    border-color: #214442 !important;
+    background: #f29ac2 !important;
+    border-color: #f29ac2 !important;
 }
 
 .jp-state-playing .jp-play:after {
@@ -622,8 +622,8 @@ ol {
 }
 
 .jp-audio .jp-play:focus {
-    background: #214442 !important;
-    border-color: #214442 !important;
+    background: #f29ac2 !important;
+    border-color: #f29ac2 !important;
 }
 
 .jp-audio .jp-play:focus:after {
@@ -650,7 +650,7 @@ ol {
 .jp-play-bar {
     position: relative;
     height: 100%;
-    background: #214442;
+    background: #f29ac2;
     overflow: visible !important;
 }
 
@@ -694,7 +694,7 @@ ol {
 }
 
 .jp-volume-bar-value {
-    background: #214442;
+    background: #f29ac2;
     height: 100%;
 }
 
@@ -787,11 +787,12 @@ ol {
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;
+    border-radius: 15px;
 }
 
 .youtube__item__pic .play-btn {
     font-size: 16px;
-    color: #214442;
+    color: #f29ac2;
     height: 60px;
     width: 60px;
     border-radius: 50%;
@@ -935,7 +936,7 @@ ol {
 
 .discography__item__text span {
     font-size: 18px;
-    color: #214442;
+    color: #f29ac2;
     font-weight: 700;
 }
 
@@ -1022,7 +1023,7 @@ ol {
 
 .footer__address ul li i {
     font-size: 18px;
-    color: #214442;
+    color: #f29ac2;
     height: 50px;
     width: 50px;
     background: #ffffff;
@@ -1035,7 +1036,7 @@ ol {
 }
 
 .footer__address ul li p {
-    color: #ffffff;
+    color: #00000094;
     opacity: 0.7;
     margin-bottom: 8px;
 }
@@ -1043,7 +1044,7 @@ ol {
 .footer__address ul li h6 {
     font-size: 15px;
     font-weight: 700;
-    color: #ffffff;
+    color: #00000094;
 }
 
 .footer__social {
@@ -1073,14 +1074,14 @@ ol {
 }
 
 .footer__social h2 {
-    color: #ffffff;
+    color: #00000094;
     font-weight: 700;
     margin-bottom: 25px;
 }
 
 .footer__social .footer__social__links a {
     font-size: 18px;
-    color: #214442;
+    color: #f29ac2;
     height: 50px;
     width: 50px;
     background: #ffffff;
@@ -1101,7 +1102,7 @@ ol {
 
 .footer__newslatter h4 {
     font-size: 26px;
-    color: #ffffff;
+    color: #00000094;
     font-weight: 700;
     margin-bottom: 30px;
 }
@@ -1113,7 +1114,7 @@ ol {
 .footer__newslatter form input {
     height: 50px;
     font-size: 15px;
-    color: #ffffff;
+    color: #00000094;
     width: 100%;
     background: transparent;
     border: 1px solid rgba(255, 255, 255, 0.2);
@@ -1142,7 +1143,7 @@ ol {
 
 .footer__newslatter form button {
     font-size: 18px;
-    color: #214442;
+    color: #f29ac2;
     position: absolute;
     right: 0;
     top: 0;
@@ -1157,7 +1158,7 @@ ol {
 }
 
 .footer__copyright__text p {
-    color: #999999;
+    color: #00000094;
 }
 
 .footer__copyright__text a {
@@ -1166,7 +1167,7 @@ ol {
 }
 
 .footer__copyright__text a:hover {
-    color: #214442;
+    color: #f29ac2;
 }
 
 .footer__copyright__text i {
@@ -1257,23 +1258,23 @@ ol {
 }
 
 .skills__content {
-    background: #214442;
+    background: #f29ac2;
     height: 500px;
     padding: 100px 70px 60px;
 }
 
 .skills__content .section-title h2 {
-    color: #ffffff;
+    color: #00000094;
 }
 
 .skills__content .section-title h1 {
-    color: #ffffff;
+    color: #00000094;
     opacity: 0.1;
     text-align: center;
 }
 
 .skills__content p {
-    color: #ffffff;
+    color: #00000094;
     margin-bottom: 32px;
 }
 
@@ -1284,7 +1285,7 @@ ol {
 .skill__bar__item p {
     font-size: 15px;
     font-weight: 500;
-    color: #ffffff;
+    color: #00000094;
     margin-bottom: 10px;
 }
 
@@ -1325,7 +1326,7 @@ ol {
 
 .skills__video .play-btn {
     font-size: 26px;
-    color: #214442;
+    color: #f29ac2;
     height: 90px;
     width: 90px;
     border-radius: 50%;
@@ -1406,7 +1407,7 @@ ol {
 .about__services__item__pic .icon {
     height: 50px;
     width: 50px;
-    background: #214442;
+    background: #f29ac2;
     border-radius: 50%;
     line-height: 50px;
     text-align: center;
@@ -1534,9 +1535,9 @@ ol {
     top: 15px;
     height: 60px;
     width: 60px;
-    background: -webkit-gradient(linear, left top, right top, from(#7E00AD), to(#214442));
-    background: -o-linear-gradient(left, #7E00AD, #214442);
-    background: linear-gradient(to right, #7E00AD, #214442);
+    background: -webkit-gradient(linear, left top, right top, from(#7E00AD), to(#f29ac2));
+    background: -o-linear-gradient(left, #7E00AD, #f29ac2);
+    background: linear-gradient(to right, #7E00AD, #f29ac2);
     border-radius: 50%;
     content: "";
     z-index: -1;
@@ -1547,25 +1548,25 @@ ol {
 }
 
 .service__item {
-    background: #214442;
+    background: #f4a6c9bd;
     height: 320px;
     padding: 70px 40px 40px 70px;
 }
 
 .service__item.deep-bg {
-    background: #214442e0;
+    background: #f29ac2e0;
 }
 
 .service__item h4 {
     font-size: 26px;
-    color: #ffffff;
+    color: #00000094;
     font-weight: 700;
     margin-top: 25px;
     margin-bottom: 10px;
 }
 
 .service__item p {
-    color: #ffffff;
+    color: #00000094;
     margin-bottom: 0;
 }
 
@@ -1620,7 +1621,7 @@ ol {
 }
 
 .tours__item__text .tours__text__widget ul li i {
-    color: #214442;
+    color: #f29ac2;
     position: absolute;
     left: 0;
     top: 3px;
@@ -1655,7 +1656,7 @@ ol {
     font-weight: 700;
     display: inline-block;
     padding: 14px 25px 12px 30px;
-    background: #214442;
+    background: #f29ac2;
     float: right;
 }
 
@@ -1740,7 +1741,7 @@ ol {
 .videos__large__item .play-btn {
     height: 50px;
     width: 50px;
-    background: #214442;
+    background: #f29ac2;
     border-radius: 50%;
     font-size: 18px;
     line-height: 50px;
@@ -1806,7 +1807,7 @@ ol {
 .videos__item__pic .play-btn {
     height: 40px;
     width: 40px;
-    background: #214442;
+    background: #f29ac2;
     border-radius: 50%;
     font-size: 16px;
     line-height: 40px;
@@ -1831,7 +1832,7 @@ ol {
     list-style: none;
     display: inline-block;
     margin-right: 18px;
-    color: #214442;
+    color: #f29ac2;
     position: relative;
 }
 
@@ -1924,7 +1925,7 @@ ol {
 .blog__large__text span {
     font-size: 13px;
     text-transform: uppercase;
-    color: #214442;
+    color: #f29ac2;
 }
 
 .blog__large__text h4 {
@@ -1997,7 +1998,7 @@ ol {
 .blog__item__text span {
     font-size: 13px;
     text-transform: uppercase;
-    color: #214442;
+    color: #f29ac2;
 }
 
 .blog__item__text h5 {
@@ -2192,7 +2193,7 @@ ol {
 .blog__details__item__text span {
     font-size: 13px;
     text-transform: uppercase;
-    color: #214442;
+    color: #f29ac2;
 }
 
 .blog__details__item__text h3 {
@@ -2274,7 +2275,7 @@ ol {
 
 .blog__details__quote i {
     font-size: 36px;
-    color: #214442;
+    color: #f29ac2;
     position: absolute;
     right: 40px;
     bottom: 35px;
@@ -2554,7 +2555,7 @@ ol {
     border-radius: 50%;
     line-height: 70px;
     text-align: center;
-    color: #214442;
+    color: #f29ac2;
     position: absolute;
     left: 0;
     top: -4px;
@@ -2807,7 +2808,7 @@ ol {
         border-radius: 0;
         padding: 12px 15px;
         float: none;
-        background: #214442;
+        background: #f29ac2;
     }
     .slicknav_nav {
         position: absolute;
@@ -2832,12 +2833,12 @@ ol {
     }
     .slicknav_nav a:hover {
         border-radius: 0;
-        background: #214442;
+        background: #f29ac2;
         color: #ffffff;
     }
     .slicknav_nav .slicknav_row:hover {
         border-radius: 0;
-        background: #214442;
+        background: #f29ac2;
         color: #ffffff;
     }
     .service__item {
