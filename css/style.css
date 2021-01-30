@@ -1701,7 +1701,7 @@ ol {
     top: -50px;
     width: calc(100% - 50px);
     height: 100%;
-    border: 20px solid rgba(9, 53, 247, 0.1);
+    border: 20px solid #f29ac280;
     content: "";
     z-index: -1;
 }
